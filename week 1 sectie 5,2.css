@@ -1,0 +1,61 @@
+#div1{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(10, 153, 10);
+    float: left;
+}
+#div2{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(160, 160, 25);
+    float: left;
+}
+#div3{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(169, 31, 31);
+    float: left;
+}
+#div4{
+    width: 23%;
+    height: 39px;
+    margin: 10px;
+    background-color: rgb(65, 66, 216);
+    float: left;
+}
+#div5{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(11, 174   , 11);
+    float: left;
+}
+#div6{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(213, 213, 4);
+    float: left;
+}
+#div7{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(211, 12, 12);
+    float: left;
+}
+#div8{
+    width: 23%;
+    height: 38px;
+    margin: 10px;
+    background-color: rgb(8, 8, 207);
+    float: left;
+} 
+
+h1{
+    font-size: 15px;
+    text-align: center;
+}
