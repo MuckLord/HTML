@@ -1,0 +1,11 @@
+#foto {
+    background-image: url("dikke prank.jpg");
+    background-color: #e30b0b;
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    clip-path: polygon(100% 10%, 0% 0%, 0% 100%, 100% 100%);
+   
+  }
